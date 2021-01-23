@@ -1,0 +1,84 @@
+body
+{
+    background-color: #2d206e;
+    font-family: "Comic-Sans";
+    font-size: 11px;
+}
+ 
+div#container
+{
+    width: 600px;
+    margin: 0px auto;
+    border: 1px solid #e6eef6;
+    background-color: #ffffff;
+}
+ 
+div#container h1
+{
+    background-color: rgb(123, 117, 199);
+    margin: 0px;
+    padding: 8px;
+    font-weight: normal;
+    color: white;
+}
+ 
+div#container fieldset
+{
+    margin: 20px;
+    border: 1px solid rgb(123, 117, 199);
+}
+ 
+ul#menu
+{
+    list-style-type: none;
+    margin: 4px;
+    padding: 0px;
+}
+ 
+ul#menu li
+{
+    float: left;
+    margin: 4px;
+}
+ 
+ 
+ul#menu li a
+{
+    text-decoration: none;
+    font-size: 10px;
+    padding: 2px;
+    color: rgb(123, 117, 199);
+}
+ 
+ul#files
+{
+    list-style-type: none;
+    margin: 40px 0px 0px 0px;
+    padding: 0px;
+}
+ 
+ul#files li
+{
+    background-color: rgb(123, 117, 199);
+    border-bottom: 1px solid #efefef;
+    padding: 2px;
+    margin-bottom: 1px;
+}
+
+ul#files li a
+{
+    text-decoration: none;
+    color: white;
+    padding: 2px 25px;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+ 
+p.error
+{
+    background-color: rgb(123, 117, 199);
+    border-bottom: 1px solid #efefef;
+    font-weight: bold;
+    color: white;
+    padding: 6px;
+}
