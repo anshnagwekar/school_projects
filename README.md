@@ -1,2 +1,2 @@
 # school_projects
-School Projects and Fun Stuff
+High School Projects and Fun Stuff
